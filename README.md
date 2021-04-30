@@ -1,4 +1,4 @@
-# bloom-project-inventory-api
+## bloom-project-inventory-api (built with Express & PostgreSQL)
 
 ### To run the api
 
